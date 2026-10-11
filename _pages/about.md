@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth-year Ph.D. candidate in Learning Sciences at Georgia State University and a Doctoral Student Fellow at the Snap Inc. Center for Computer and Teacher Education, advised by Dr. Lauren Margulieux. I am an interdisciplinary researcher working at the intersection of computing education, learning sciences, and educational technology. My research examines how learners encounter and experience failure while learning to program and how technology can be designed to adapt instructional support to the levels of struggle and failure learners experience.
+I am a fourth-year Ph.D. candidate in Learning Sciences at Georgia State University and a Doctoral Student Fellow at the Snap Inc. Center for Computer and Teacher Education, advised by Dr. Lauren Margulieux. I am an interdisciplinary researcher working at the intersection of computing education, learning sciences, and educational technology. My research examines how learners encounter and experience failure while learning programming and how technology can be designed to adapt instructional support to the levels of struggle and failure learners experience.
 
 Before beginning my Ph.D., I spent several years teaching computer science and designing computing learning experiences for K–12 students. I taught programming, developed computer science curricula, and worked with teachers to integrate computing into their classrooms.
 
