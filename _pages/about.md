@@ -44,7 +44,7 @@ Before beginning my Ph.D., I spent several years teaching computer science to Kâ
 <style>
 .job-market-note {
   background-color: rgba(120, 140, 160, 0.08);
-  border-left: 4px solid #678bb2;
+  border-left: 4px solid #FFFFFF;
   padding: 16px 20px;
   margin: 24px 0;
   border-radius: 0 6px 6px 0;
