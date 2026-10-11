@@ -5,5 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I participated in the **[ACM AI Leadership Summit 2026]**(https://aisummit26.acm.org/) 
- in Atlanta, Georgia, as a **Future Leader of AI**. 
+
+I participated in the **[ACM AI Leadership Summit 2026](https://aisummit26.acm.org/)** in Atlanta, Georgia, as a **Future Leader of AI**.
+
