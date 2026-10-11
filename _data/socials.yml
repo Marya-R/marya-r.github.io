@@ -4,7 +4,7 @@
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: maryrahimi49@gmail.com # your email address
 # inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: false # comment this line to hide the RSS icon
+#rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: b0L-c6gAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
@@ -12,7 +12,7 @@ scholar_userid: b0L-c6gAAAAJ # your Google Scholar ID
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
-linkedin_username: soheila-farokhi # your LinkedIn user name
+linkedin_username: marya-rahimi # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0009-0001-2654-9400 # your ORCID ID
+orcid_id: 0009-0003-7139-4254 # your ORCID ID
