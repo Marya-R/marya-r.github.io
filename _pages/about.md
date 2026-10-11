@@ -27,8 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a fourth-year Ph.D. candidate in Learning Sciences at Georgia State University and a Doctoral Student Fellow at the Snap Inc. Center for Computer and Teacher Education, advised by Dr. Lauren Margulieux. With a background in computer science, I am an interdisciplinary researcher working at the intersection of computing education, learning sciences, and educational technology. My research examines how learners encounter and experience opportunities to learn computing and how technology can be designed to support learning without replacing the thinking, struggle, and creativity that make learning meaningful.
+Before beginning my Ph.D., I spent several years teaching computer science and designing computing learning experiences for K–12 students. I taught programming, developed computer science curricula, and worked with teachers to integrate computing into their classrooms. These experiences continue to shape the questions I bring to my research, particularly around how learners first encounter computing, how they navigate failure and struggle while learning to program, and how emerging technologies such as AI can support learning while preserving learners’ agency and ownership.
