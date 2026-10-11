@@ -1,20 +1,12 @@
-
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
+cv_pdf: /assets/pdf/CV-Rahimi.pdf # you can also use external links here
+cv_format: rendercv # options: rendercv, jsonresume
 description:
+toc:
+  sidebar: left
 ---
-
-<iframe
-  src="{{ '/assets/pdf/CV-Rahimi.pdf' | relative_url }}"
-  width="100%"
-  height="1000px"
-  style="border: none;"
-  title="Curriculum Vitae">
-</iframe>
-
-[**Download my CV (PDF)**]({{ '/assets/pdf/CV-Rahimi.pdf' | relative_url }})
-
