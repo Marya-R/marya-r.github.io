@@ -86,7 +86,7 @@ calendar: true
   </div>
 
   <div class="teaching-card">
-    <h4>Algorithmic Thinking</h4>
+    <h4>Algorithmic Thinking, Grades 2-7</h4>
     <p class="role">Teacher</p>
     <p class="date">2019–2020</p>
   </div>
