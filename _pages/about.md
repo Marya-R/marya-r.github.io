@@ -51,9 +51,10 @@ Before beginning my Ph.D., I spent several years teaching computer science to Kâ
 }
 
 
+
 <style>
 .news {
-  border: 1px solid #d6d6d6 !important;
+  border: 1px solid #d6d6d6;
   border-radius: 8px;
   padding: 16px;
   margin-top: 15px;
@@ -64,6 +65,14 @@ Before beginning my Ph.D., I spent several years teaching computer science to Kâ
   max-height: 280px;
   overflow-y: auto !important;
   overflow-x: hidden;
+  direction: rtl;
+}
+
+.news table tbody {
+  display: table;
+  width: 100%;
+  direction: ltr;
 }
 </style>
+
 
