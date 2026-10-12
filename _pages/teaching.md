@@ -1,15 +1,137 @@
+
 ---
 layout: page
+title: Teaching & Mentoring
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
-calendar: false
+nav_order: 5
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+<style>
+.teaching-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+  margin: 20px 0 36px;
+}
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+.teaching-card {
+  padding: 22px;
+  border-radius: 9px;
+  background: var(--global-card-bg-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.09);
+}
 
-{% include courses.liquid %}
+.teaching-card h4 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.teaching-card .role {
+  color: var(--global-text-color);
+  opacity: 0.75;
+  margin-bottom: 8px;
+}
+
+.teaching-card .date {
+  margin-bottom: 0;
+}
+</style>
+
+<h2>Georgia State University</h2>
+<hr>
+<div class="teaching-grid">
+  <div class="teaching-card">
+    <h4>Computer Science Teacher Endorsement</h4>
+    <p class="role">Instructional Designer</p>
+    <p class="date">2026</p>
+  </div>
+</div>
+
+<h2>Mofid Elementary School</h2>
+<hr>
+<div class="teaching-grid">
+  <div class="teaching-card">
+    <h4>Elementary Computer Science Curriculum</h4>
+    <p class="role">Lead Teacher</p>
+    <p class="date">2021–2022</p>
+  </div>
+
+  <div class="teaching-card">
+    <h4>Block-Based Programming, Grades 5–6</h4>
+    <p class="role">Teacher</p>
+    <p class="date">2019–2021</p>
+  </div>
+</div>
+
+<h2>Codynick</h2>
+<hr>
+<div class="teaching-grid">
+  <div class="teaching-card">
+    <h4>Creative Thinking, Grades 5–6</h4>
+    <p class="role">Teacher</p>
+    <p class="date">2020</p>
+  </div>
+</div>
+
+<h2>CAFCO</h2>
+<hr>
+<div class="teaching-grid">
+  <div class="teaching-card">
+    <h4>Learning Math Through Games, Grades Pre-K–3</h4>
+    <p class="role">Teacher</p>
+    <p class="date">2019–2020</p>
+  </div>
+
+  <div class="teaching-card">
+    <h4>Algorithmic Thinking</h4>
+    <p class="role">Teacher</p>
+    <p class="date">2019–2020</p>
+  </div>
+</div>
+
+<h2>Shahid Beheshti University</h2>
+<hr>
+<div class="teaching-grid">
+  <div class="teaching-card">
+    <h4>Computational Geometry</h4>
+    <p class="role">Graduate Course Teaching Assistant</p>
+    <p class="date">2017–2018</p>
+  </div>
+
+  <div class="teaching-card">
+    <h4>Graph Theory</h4>
+    <p class="role">Undergraduate Course Teaching Assistant</p>
+    <p class="date">2018</p>
+  </div>
+
+  <div class="teaching-card">
+    <h4>How to Teach Online</h4>
+    <p class="role">Facilitator</p>
+    <p class="date">2017–2019</p>
+  </div>
+</div>
+
+<h2>Mentoring</h2>
+<hr>
+<div class="teaching-grid">
+  <div class="teaching-card">
+    <h4>Learning Sciences Graduate Student Association</h4>
+    <p class="role">Graduate Student Mentor</p>
+    <p class="date">2026</p>
+  </div>
+
+  <div class="teaching-card">
+    <h4>NCWIT AiC-WA + NSF IAMCS</h4>
+    <p class="role">Mentor</p>
+    <p class="date">2025</p>
+  </div>
+
+  <div class="teaching-card">
+    <h4>International Learning Sciences Student Association</h4>
+    <p class="role">Graduate Student Mentor</p>
+    <p class="date">2025</p>
+  </div>
+</div>
+
