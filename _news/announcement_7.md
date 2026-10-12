@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-I served as a manuscript reviewer for **[ACM Transactions on Computing Education (TOCE)](https://dl.acm.org/journal/toce)**.
+I served as a manuscript **reviewer** for **[ACM Transactions on Computing Education (TOCE)](https://dl.acm.org/journal/toce)**.
