@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my dissertation prospectus and advanced to Ph.D. candidacy in Learning Sciences at Georgia State University 🎉
+I successfully defended my dissertation prospectus and advanced to **Ph.D. candidacy in Learning Sciences** at Georgia State University 🎉
