@@ -50,3 +50,17 @@ Before beginning my Ph.D., I spent several years teaching computer science to Kâ
   margin-bottom: 0;
 }
 </style>
+<style>
+.news .table-responsive,
+.news .table {
+  max-height: 260px;
+  overflow-y: auto;
+}
+
+.news {
+  border: 1px solid #d6d6d6;
+  border-radius: 8px;
+  padding: 16px;
+  margin-top: 15px;
+}
+</style>
