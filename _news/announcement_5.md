@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I participated in the **MMARI workshop**.
+participated in the NSF-funded MMARI workshop, a four-day workshop on meta-analysis held in Chicago, Illinois.
