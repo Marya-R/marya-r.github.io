@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I served as a **Program Committee Member** for the **ACM International Computing Education Research (ICER) 2026** conference.
+
+I served as a **Program Committee Member** for the **[ACM International Computing Education Research (ICER) 2026](https://icer2026.acm.org/)** conference.
+
