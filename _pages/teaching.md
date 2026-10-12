@@ -1,11 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: <h2>
-  <i class="fa-solid fa-graduation-cap"
-     style="color: var(--global-theme-color); margin-right: 10px;"></i>
-  Teaching & Instructional Design
-</h2>
+title: Teaching
 description:
 nav: true
 nav_order: 6
