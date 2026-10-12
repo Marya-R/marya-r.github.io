@@ -32,11 +32,7 @@ Before beginning my Ph.D., I spent several years teaching computer science to Kâ
 <div class="job-market-note">
   <strong>On the Academic Job Market | 2026â€“2027</strong>
   <p>
-     I am looking for tenure-track faculty and postdoctoral researcher positions where I can advance my research in computer science
-    education, pursue my interests in designing learning
-    environments that support productive struggle and learner
-    agency, and contribute to teaching, mentoring, and
-    interdisciplinary research collaborations.
+    I am looking for tenure-track faculty or postdoctoral research positions where I can advance my research in computer science education, particularly in designing learning environments that support productive struggle and learner agency.
   </p>
 </div>
 
