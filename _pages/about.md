@@ -50,16 +50,20 @@ Before beginning my Ph.D., I spent several years teaching computer science to Kâ
   margin-bottom: 0;
 }
 
+
 <style>
 .news {
-  max-height: 280px;
-  overflow-y: auto;
-  overflow-x: hidden;
-  border: 1px solid #d6d6d6;
+  border: 1px solid #d6d6d6 !important;
   border-radius: 8px;
   padding: 16px;
   margin-top: 15px;
-  box-sizing: border-box;
+}
+
+.news table {
+  display: block;
+  max-height: 280px;
+  overflow-y: auto !important;
+  overflow-x: hidden;
 }
 </style>
 
