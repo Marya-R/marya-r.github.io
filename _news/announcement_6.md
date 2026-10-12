@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I served as a manuscript reviewer for the journal *Computer Science Education*.
+I served as a manuscript reviewer for the journal **[Computer Science Education] (https://www.tandfonline.com/journals/ncse20)**.
